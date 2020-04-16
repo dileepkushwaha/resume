@@ -1,13 +1,13 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Cloud | DevOps Engineer"
+description: "Dileep Kushwaha's Resume."
 
 # Build settings
 markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
-
+#baseurl: "resume"
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "DIleep Kumar"
