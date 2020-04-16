@@ -1,0 +1,43 @@
+# Jobs
+# VP of Global Communications
+#- company: Springfield International Human Rights Outreach
+#  position: VP of Global Communications
+#  duration: Oct, 2013 &mdash; Present
+#  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+# Director of Digital Stratgy
+#- company: United Nations Human Rights Council
+#  position: Director of Digital Strategy
+#  duration:  Jun, 2010 &mdash; Sept, 2013
+#  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+
+# Communications Coordinator
+#- company: Springfield Women & Children's Center
+#  position: Communications Coordinator
+#  duration:   Jun, 2008  &mdash; May, 2010
+#  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+#PC Solutions
+- company: PC Solutions Pvt. Ltd., Delhi
+  position: Associate Cloud Consultant, MS Azure Cloud
+  duration:   June, 2018  &mdash; Present
+  summary: Key Responsibilities<ul class="resume-item-list"><li>Introduced DevOps practices using Azure DevOps and training sessions</li><li>Completed POC for Azure Blockchain Workbench.</li><li>Providing Azure Search REST API for PaaS application.</li>PowerShell script for log rotation on blob storage.<li>Managing disks for Windows, RedHat, Ubuntu and SUSE Linux on Azure.</li>Provided PoC for Elastic Query, a PaaS alternative for cross-database query on Azure SQL.<li>Troubleshooting of SQL DB, MySql DB, VMs, Networking related issues.</li>Configuration of Azure Firewall on Azure Cloud.</li></ul> 
+
+#Cyber Group
+- company: Cyber Group Inc., Noida
+  position: Cloud Engineer, MS Azure Cloud
+  duration:   Oct, 2016  &mdash; Oct, 2017
+  summary : Key Responsibilities<ul class="resume-item-list"><li>Building, releasing and deploying applications using VSTS and Octopus Deploy.</li>Experience with Agile and scrum methodologies<li>Multi-tenant and rolling deployments using Octopus Deploy.</li>Providing Git support to developers.<li>Multi-environment deployments of .net based application on Azure.</li>Automating CI-CD pipelines using PowerShell scripts.<li>Data gathering using VSTS API and PowerShell.<li>Scheduling task using cronjob.</li>Infrastructure automation on VMware and Azure using Terraform and ARM Templates<li>F5 blue-green production deployments.</li>Provisioning Couchbase servers, MongoDB Server, Graylog Server, Sitecore Servers, Chef Servers, Jira Servers, Ubuntu servers, Zabbix server.<li>Beginner to advance training on Git</ul>
+
+#CallAtHome
+- company: CallAtHome., Gurgaon
+  position: Software Developer, AWS Cloud
+  duration:   Sep, 2015  &mdash; Sep, 2016
+  summary : Key Responsibilities<ul class="resume-item-list"><li>Implemented several APIs in PHP.</li>Automated recursive task using shell scripting<li>Created and managed AWS Ubuntu machines.</li>Took security measure for AWS machines.<li>Implemented Auto-Codedeploy with GitHub.</li>Worked with Google Map APIs.<li>Incorporated Elasticsearch</li></ul>
+
+#Qubit Technologies
+- company: Qubit Technologies., Gurgaon
+  position: Software Developer, AWS Cloud
+  duration:   Aug, 2014  &mdash; Sep, 2015
+  summary: Key Responsibilities<ul><li>Implemented several APIs in PHP</li>Creating and maintaining mysql database.<li>Installed Nagios Core and configured linux and windows clients using NRPE and NSClient++</li>Installing Oauth in OSTicket<li>Automated recursive tasks related to Google sheets using ZendGdata.</li>Created Shell, Perl script for taking backup locally on AWS machine.<li></ul>
